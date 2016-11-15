@@ -27,7 +27,7 @@
 ################################################################################
 
 # The number of days before the snapshot should be removed.
-numberOfDays=7
+numberOfDays=28
 
 # The Google Cloud Compute instance URL for internal meta data
 # retrival. (see https://cloud.google.com/compute/docs/metadata)
